@@ -1,0 +1,78 @@
+---
+title: "Michal Kvasnička"
+image: kvasnickaSq.jpg
+about: 
+    template: trestles
+    image-shape: round
+    image-width: 15em
+    links:
+    # - text: LinkedIn
+    #   href: https://www.linkedin.com/in/samanthacsik/
+    #   icon: linkedin
+    - text: ORCID
+      href: https://orcid.org/0000-0002-2139-5377
+      icon: orcid
+    - text: GitHub
+      href: https://github.com/mkvasnicka
+      icon: github
+    # - text: Google Scholar
+    #   href: https://scholar.google.cz/citations?user=yl6tBG8AAAAJ&hl=en
+    - text: Email
+      href: mailto:michal.kvasnicka@econ.muni.cz
+      icon: envelope
+---
+
+Masaryk University | Department of Economics, Researcher
+
+Lipová 41a | 60200 Brno | Czech Republic
+
+
+
+## Software
+
+Software developed as part of my research:
+
+### police
+
+### Merger simulation in markets with homogeneous product and spatial differentiation
+
+supported byTAČR grant TL02000122
+
+for the Office for the Protection of Competition
+
+with Rostislav Staněk and Ondřej Krčál
+
+The aim of the project was to develop software to support decision-making in the assessment of mergers in the fuel market. The Czech fuel market is now highly fragmented and mergers can be expected to occur, which may reduce competition and increase prices. The software will allow answering two questions: 1) What price increases will occur in the event of a merger in general and at individual filling stations? 2) What obligations are to be established if the merger is allowed? The aim is to translate existing research (including that of the research team) into simulation software that will support the Competition Authority's decision-making in specific cases. If the Authority has the data in the required structure, the software can also be used in other markets with homogeneous product and spatial differentiation.
+
+The system contains two software (functionalities):
+
+software for estimating the local competition model and merger simulation
+
+software for visualising price maps
+
+The two software are combined into one software package MergerSim because they use some common parts of the code. The joint installation is also more user-friendly.
+
+The software is implemented in the R computing environment.
+
+Downloads:
+
+* MergerSim: merger simulation and visualization software
+
+
+
+### Collusion detection in public procurement
+
+supported by TAČR grant TD03000121
+
+for the Office for the Protection of Competition
+
+with Rostislav Staněk and Ondřej Krčál
+
+The aim of the project was to develop a methodology and software to detect collusion in public procurement. We created a system that detects suspicious contracts and potentially problematic sectors and contracting authorities based on data available from the Public Procurement Bulletin. We have also developed a methodology to help the OCA interpret the results of the system and recommend a way forward in collecting and evaluating additional data that can be used as a basis for a decision to open an administrative investigation.
+
+Download:
+
+* detector: software for the detection of suspected collusive behavior in public procurement
+* pprobber: software for downloading data from the new version of the Public Procurement Bulletin
+* pprobber: software for downloading data from the old version of the Public Procurement Bulletin
+

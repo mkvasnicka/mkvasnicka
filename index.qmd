@@ -1,0 +1,44 @@
+---
+title: "Michal Kvasnička"
+image: kvasnickaSq.jpg
+about: 
+    template: trestles
+    image-shape: round
+    image-width: 15em
+    links:
+    # - text: LinkedIn
+    #   href: https://www.linkedin.com/in/samanthacsik/
+    #   icon: linkedin
+    - text: ORCID
+      href: https://orcid.org/0000-0002-2139-5377
+      icon: orcid
+    - text: GitHub
+      href: https://github.com/mkvasnicka
+      icon: github
+    # - text: Google Scholar
+    #   href: https://scholar.google.cz/citations?user=yl6tBG8AAAAJ&hl=en
+    - text: Email
+      href: mailto:michal.kvasnicka@econ.muni.cz
+      icon: envelope
+---
+
+Masaryk University | Department of Economics, Researcher
+
+Lipová 41a | 60200 Brno | Czech Republic
+
+
+
+## Selected Publications
+
+xxx
+
+
+## Working Papers
+
+
+## Research in Progress
+
+
+## Teaching
+
+
