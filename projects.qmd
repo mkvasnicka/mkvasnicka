@@ -22,13 +22,13 @@ about:
       icon: envelope
 ---
 
-Masaryk University | Department of Economics, Researcher
+Masaryk University | Department of Economics
 
 Lipová 41a | 60200 Brno | Czech Republic
 
+\
 
-
-## Software
+## Selected Projects
 
 Software developed as part of my research:
 

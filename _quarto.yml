@@ -9,8 +9,10 @@ website:
         text: Home
       - href: publications.qmd
         text: Publications
-      - href: software.qmd
-        text: Software
+      - href: projects.qmd
+        text: Projects
+      - href: teaching.qmd
+        text: Teaching
 
 format:
   html:

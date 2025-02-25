@@ -1,0 +1,45 @@
+---
+title: "Michal Kvasnička"
+image: kvasnickaSq.jpg
+about: 
+    template: trestles
+    image-shape: round
+    image-width: 15em
+    links:
+    # - text: LinkedIn
+    #   href: https://www.linkedin.com/in/samanthacsik/
+    #   icon: linkedin
+    - text: ORCID
+      href: https://orcid.org/0000-0002-2139-5377
+      icon: orcid
+    - text: GitHub
+      href: https://github.com/mkvasnicka
+      icon: github
+    # - text: Google Scholar
+    #   href: https://scholar.google.cz/citations?user=yl6tBG8AAAAJ&hl=en
+    - text: Email
+      href: mailto:michal.kvasnicka@econ.muni.cz
+      icon: envelope
+---
+
+Masaryk University | Department of Economics
+
+Lipová 41a | 60200 Brno | Czech Republic
+
+\
+
+## Current Teaching
+
+#### Principles of Microeconomics
+
+This course, taught in Czech, introduces first-year Faculty of Economics students at Masaryk University to the principles of microeconomics, based on Mankiw's *Principles of Economics*. For more information, please visit the course [website](https://is.muni.cz/el/econ/podzim2024/BPE_MIE1/index-XuHfzb.qwarp).
+
+
+#### Applied Identification Strategies
+
+Applied Identification Strategies, co-taught with [Štěpán Mikula](https://sites.google.com/site/stepanmikula/), introduces students to the principles of causal inference using Huntington-Klein's [*The Effect*](https://theeffectbook.net/) as a core text. For more information, please visit the course [website](https://is.muni.cz/auth/el/econ/jaro2025/MPE_APIS/index.qwarp).
+
+
+#### Analysis and Visualization of Economic Data in R
+
+Students will learn the basics of data analysis and visualization in R through this Czech-language course, co-taught by [Štěpán Mikula](https://sites.google.com/site/stepanmikula/). We use a custom [textbook](https://aved.econ.muni.cz/) developed specifically for this course. Visit the course [website](https://is.muni.cz/auth/el/econ/podzim2024/MPE_AVED/index.qwarp) for more details.
