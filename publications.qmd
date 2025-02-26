@@ -22,8 +22,7 @@ about:
       icon: envelope
 ---
 
-Masaryk University | Department of Economics
-
+Masaryk University | Department of Economics\
 Lipová 41a | 60200 Brno | Czech Republic
 
 \
