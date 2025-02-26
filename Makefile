@@ -10,5 +10,8 @@ $(TARGET): $(QMDS) $(FIGS)
 open: $(TARGET)
 	open $(TARGET)
 
+publish: $(TARGET)
+	quarto publish gh-pages
+
 clean:
 	rm -rf $(SITE)
