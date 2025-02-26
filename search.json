@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Michal Kvasnička",
+    "section": "",
+    "text": "Masaryk University | Department of Economics\nLipová 41a | 60200 Brno | Czech Republic"
+  },
+  {
+    "objectID": "publications.html#selected-papers",
+    "href": "publications.html#selected-papers",
+    "title": "Michal Kvasnička",
+    "section": "Selected Papers",
+    "text": "Selected Papers\n\nLong-distance rail in Europe: Comparing the forms of head-on competition across Europe\nBERIA, Paolo, Vardhman LUNKAR, Samuel TOLENTINO, Vilém PAŘIL and Michal KVASNIČKA. Long-distance rail in Europe: Comparing the forms of head-on competition across Europe. Research in Transportation Economics. Oxford: Elsevier, 2023, vol. 102, December, p. 1-17. ISSN 0739-8859. Available from https://dx.doi.org/10.1016/j.retrec.2023.101367.\n\n\n\n\nCan we ignore spatial dependence when evaluating mergers?\nKVASNIČKA, Michal. Can we ignore spatial dependence when evaluating mergers? Empirical Economics. HEIDELBERG: Springer-Verlag GmbH Germany, 2022, vol. 62, No 3, p. 1323-1344. ISSN 0377-7332. Available from https://dx.doi.org/10.1007/s00181-021-02055-x.\n\n\n\n\nDo R&D Subsidies Support Innovation or Imitation? Evidence from Four EU Countries\nSTANĚK, Rostislav, Michal KVASNIČKA and Ondřej KRČÁL. Do R&D Subsidies Support Innovation or Imitation? Evidence from Four EU Countries. Ekonomický časopis. SAP - Slovak Academic Press, 2018, vol. 66, No 9, p. 909-924. ISSN 0013-3035.\n\n\n\n\nIs the Retail Gasoline Market Local or National?\nKVASNIČKA, Michal, Rostislav STANĚK and Ondřej KRČÁL. Is the Retail Gasoline Market Local or National? Journal of Industry, Competition and Trade. Springer US, 2018, vol. 18, No 1, p. 47-58. ISSN 1566-1679. Available from https://dx.doi.org/10.1007/s10842-017-0249-0.\n\n\n\n\nExternal validity of prospect theory: The evidence from soccer betting\nKRČÁL, Ondřej, Michal KVASNIČKA and Rostislav STANĚK. External validity of prospect theory: The evidence from soccer betting. Journal of Behavioral and Experimental Economics. 2016, vol. 65, No 5, p. 121-127. ISSN 2214-8043. Available from https://dx.doi.org/10.1016/j.socec.2016.07.005."
+  },
+  {
+    "objectID": "publications.html#textbook",
+    "href": "publications.html#textbook",
+    "title": "Michal Kvasnička",
+    "section": "Textbook",
+    "text": "Textbook\n\nAnalýza a vizualizace dat v jazyce R\nKVASNIČKA, Michal, Štěpán MIKULA. Data analysis and visualization in R language, in Czech. Available online here."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Michal Kvasnička",
+    "section": "",
+    "text": "Masaryk University | Department of Economics\nLipová 41a | 60200 Brno | Czech Republic"
+  },
+  {
+    "objectID": "projects.html#selected-past-projects",
+    "href": "projects.html#selected-past-projects",
+    "title": "Michal Kvasnička",
+    "section": "Selected Past Projects",
+    "text": "Selected Past Projects\n\nCreation of Advanced Traffic Accident Analysis Tools for the Police of the Czech Republic\nsupported by TAČR grant TL02000122 | for the Police of the Czech Republic | with Štěpán Mikula, Josef Montag, and Josef Bolcha\nWe developed software to identify and visualize hazardous sections of road networks, and to display general accident statistics. A demonstration version of the software is available here.\nDownloads:\n\nhazardous section detection\npresentation software\n\n\n\n\n\nMerger simulation in markets with homogeneous product and spatial differentiation\nsupported by TAČR grant TL02000122 | for the Office for the Protection of Competition | with Rostislav Staněk and Ondřej Krčál\nWe developed software MergerSim to analyze fuel market mergers for the Czech Competition Authority. It forecasts price changes (overall and at specific stations) and recommends obligations to maintain competition. This tool aids decision-making in a market prone to mergers. The software is implemented in the R computing environment.\nDownloads:\n\nMergerSim: merger simulation and visualization software\n\n\n\n\n\nCollusion detection in public procurement\nsupported by TAČR grant TD03000121 | for the Office for the Protection of Competition | with Rostislav Staněk and Ondřej Krčál\nThis project delivered a methodology and software for the OCA to uncover collusion in public procurement. The system pinpoints suspect contracts and sectors, and the methodology guides the OCA in gathering additional evidence for formal investigations.\nDownload:\n\ndetector: detects behavior suspected of collusion in public procurement\npprobber: downloads data from the new Public Procurement Bulletin\npprobber: downloads data from the old Public Procurement Bulletin"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Michal Kvasnička",
+    "section": "",
+    "text": "Masaryk University | Department of Economics\nLipová 41a | 60200 Brno | Czech Republic"
+  },
+  {
+    "objectID": "teaching.html#current-teaching",
+    "href": "teaching.html#current-teaching",
+    "title": "Michal Kvasnička",
+    "section": "Current Teaching",
+    "text": "Current Teaching\n\nPrinciples of Microeconomics\nThis course, taught in Czech, introduces first-year Faculty of Economics students at Masaryk University to the principles of microeconomics, based on Mankiw’s Principles of Economics. For more information, please visit the course website.\n\n\n\n\nApplied Identification Strategies\nApplied Identification Strategies, co-taught with Štěpán Mikula, introduces students to the principles of causal inference using Huntington-Klein’s The Effect as a core text. For more information, please visit the course website.\n\n\n\n\nAnalysis and Visualization of Economic Data in R\nStudents will learn the basics of data analysis and visualization in R through this Czech-language course, co-taught by Štěpán Mikula. We use a custom textbook developed specifically for this course. Visit the course website for more details."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Michal Kvasnička",
+    "section": "",
+    "text": "Masaryk University | Department of Economics\nLipová 41a | 60200 Brno | Czech Republic\n\n\nI am an assistant professor at the Department of Economics of the Faculty of Economics, Masaryk University, and member of Health Economics, Policy, and Innovation Institute (HEPII).\nMy research focuses on applied microeconomics and health economics."
+  }
+]
