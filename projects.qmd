@@ -28,51 +28,42 @@ Lipová 41a | 60200 Brno | Czech Republic
 
 \
 
-## Selected Projects
+## Selected Past Projects
 
-Software developed as part of my research:
+#### Creation of Advanced Traffic Accident Analysis Tools for the Police of the Czech Republic
 
-### police
+supported by TAČR grant TL02000122 | for the Police of the Czech Republic | with [Štěpán Mikula](https://sites.google.com/site/stepanmikula/), Josef Montag, and Josef Bolcha
 
-### Merger simulation in markets with homogeneous product and spatial differentiation
+We developed software to identify and visualize hazardous sections of road networks, and to display general accident statistics. A demonstration version of the software is available [here](https://trafficacc.econ.muni.cz/).
 
-supported byTAČR grant TL02000122
+Downloads:
 
-for the Office for the Protection of Competition
+* [hazardous section detection](https://github.com/mkvasnicka/accClusters)
+* [presentation software](https://github.com/s-mikula/trafficacc)
 
-with Rostislav Staněk and Ondřej Krčál
+\
 
-The aim of the project was to develop software to support decision-making in the assessment of mergers in the fuel market. The Czech fuel market is now highly fragmented and mergers can be expected to occur, which may reduce competition and increase prices. The software will allow answering two questions: 1) What price increases will occur in the event of a merger in general and at individual filling stations? 2) What obligations are to be established if the merger is allowed? The aim is to translate existing research (including that of the research team) into simulation software that will support the Competition Authority's decision-making in specific cases. If the Authority has the data in the required structure, the software can also be used in other markets with homogeneous product and spatial differentiation.
+#### Merger simulation in markets with homogeneous product and spatial differentiation
 
-The system contains two software (functionalities):
+supported by TAČR grant TL02000122 | for the Office for the Protection of Competition | with [Rostislav Staněk](https://sites.google.com/view/rostislavstanek) and [Ondřej Krčál](https://sites.google.com/view/ondrej-krcal/)
 
-software for estimating the local competition model and merger simulation
-
-software for visualising price maps
-
-The two software are combined into one software package MergerSim because they use some common parts of the code. The joint installation is also more user-friendly.
-
-The software is implemented in the R computing environment.
+We developed software **MergerSim** to analyze fuel market mergers for the Czech Competition Authority. It forecasts price changes (overall and at specific stations) and recommends obligations to maintain competition. This tool aids decision-making in a market prone to mergers. The software is implemented in the R computing environment.
 
 Downloads:
 
 * MergerSim: merger simulation and visualization software
 
+\
 
+#### Collusion detection in public procurement
 
-### Collusion detection in public procurement
+supported by TAČR grant TD03000121 | for the Office for the Protection of Competition | with [Rostislav Staněk](https://sites.google.com/view/rostislavstanek) and [Ondřej Krčál](https://sites.google.com/view/ondrej-krcal/)
 
-supported by TAČR grant TD03000121
-
-for the Office for the Protection of Competition
-
-with Rostislav Staněk and Ondřej Krčál
-
-The aim of the project was to develop a methodology and software to detect collusion in public procurement. We created a system that detects suspicious contracts and potentially problematic sectors and contracting authorities based on data available from the Public Procurement Bulletin. We have also developed a methodology to help the OCA interpret the results of the system and recommend a way forward in collecting and evaluating additional data that can be used as a basis for a decision to open an administrative investigation.
+This project delivered a methodology and software for the OCA to uncover collusion in public procurement. The system pinpoints suspect contracts and sectors, and the methodology guides the OCA in gathering additional evidence for formal investigations.
 
 Download:
 
-* detector: software for the detection of suspected collusive behavior in public procurement
-* pprobber: software for downloading data from the new version of the Public Procurement Bulletin
-* pprobber: software for downloading data from the old version of the Public Procurement Bulletin
+* detector: detects behavior suspected of collusion in public procurement
+* pprobber: downloads data from the new Public Procurement Bulletin
+* pprobber: downloads data from the old Public Procurement Bulletin
 
