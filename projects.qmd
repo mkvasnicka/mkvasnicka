@@ -51,7 +51,7 @@ We developed software **MergerSim** to analyze fuel market mergers for the Czech
 
 Downloads:
 
-* MergerSim: merger simulation and visualization software
+* [MergerSim](https://ucnmuni-my.sharepoint.com/:u:/g/personal/847_muni_cz/Eef0uNfp-zZJlkj_OjO5edAB562YBEuZKAn-PTRXy1TKAA?e=2jyRjm): merger simulation and visualization software
 
 \
 
@@ -63,7 +63,7 @@ This project delivered a methodology and software for the OCA to uncover collusi
 
 Download:
 
-* detector: detects behavior suspected of collusion in public procurement
-* pprobber: downloads data from the new Public Procurement Bulletin
-* pprobber: downloads data from the old Public Procurement Bulletin
+* [detector](https://ucnmuni-my.sharepoint.com/:u:/g/personal/847_muni_cz/EcbRrXD7i-NJgrRC0NUmCjMB6dzY9-JxlYK5TD0QrMmpAw?e=pNLYv2): detects behavior suspected of collusion in public procurement
+* [pprobber](https://ucnmuni-my.sharepoint.com/:u:/g/personal/847_muni_cz/ESKD1_toBEZDkMbKjh8vmksBhcAgi4-ziTSacmkPYJ6Yjg?e=JlVU2r): downloads data from the new Public Procurement Bulletin
+* [pprobber](https://ucnmuni-my.sharepoint.com/:u:/g/personal/847_muni_cz/EU1EEpVgwFlFrNNtndeg67kBYSqHfGEWGOZnhfeHrFuDeA?e=PLD6uq): downloads data from the old Public Procurement Bulletin
 

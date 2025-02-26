@@ -18,8 +18,8 @@ format:
   html:
     # theme: cosmo
     theme: 
-      dark: cyborg  # darkly
-      light: cerulean  # flatly
+      # dark: cyborg  # darkly
+      light: cerulean  # sketchy  # flatly
     css: styles.css
     page-layout: full
     # toc: true

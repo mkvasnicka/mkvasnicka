@@ -28,7 +28,7 @@ Lipová 41a | 60200 Brno | Czech Republic
 
 \
 
-## Selected Publications
+## Selected Papers
 
 #### Long-distance rail in Europe: Comparing the forms of head-on competition across Europe
 
@@ -60,3 +60,13 @@ KVASNIČKA, Michal, Rostislav STANĚK and Ondřej KRČÁL. Is the Retail Gasolin
 #### External validity of prospect theory: The evidence from soccer betting
 
 KRČÁL, Ondřej, Michal KVASNIČKA and Rostislav STANĚK. External validity of prospect theory: The evidence from soccer betting. Journal of Behavioral and Experimental Economics. 2016, vol. 65, No 5, p. 121-127. ISSN 2214-8043. Available from [https://dx.doi.org/10.1016/j.socec.2016.07.005](https://dx.doi.org/10.1016/j.socec.2016.07.005).
+
+\
+
+\
+
+## Textbook
+
+#### Analýza a vizualizace dat v jazyce R
+
+KVASNIČKA, Michal, Štěpán MIKULA. Data analysis and visualization in R\ language, in Czech. Available online [here](https://aved.econ.muni.cz/).
